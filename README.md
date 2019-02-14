@@ -19,3 +19,5 @@ print(n)
 ##union function can be defined by num|num1 (or) num.unoin(num1)
 ## difference can be defined as num-num1
 The symmetric difference of two sets A and B is the set of elements which are in either of the sets A or B but not in both ca be defined as seta=setb^setc or seta=setb.symmetric_difference(B)
+##to find the max, min and length just like in lists. max(), min() and len() can be used
+
