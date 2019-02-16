@@ -24,7 +24,7 @@ The symmetric difference of two sets A and B is the set of elements which are in
 to define a group of objects as key value pairs, then we should go for dictionaries.
 ## The major data types like int, float, complex,string, boolean, tuples can be set as keys but not lists, sets, dictionaries
 ## The major data types like int, float, complex, string, boolean, tuples, lists, sets and dictionaries can be set as values.
-update() will be used to add an key, value to the dictionary
+update() will be used to add an key, value to the dictionary and even for merging the 2 dictionaries
 d={1:1, 2:2}
 d.update({3:3})
 print(d)
@@ -32,3 +32,6 @@ print(d)
 dict1={1:1,2:2,3:3,4:4,5:5}
 for dict1_key,dict1_values in dict1.items():
     print(dict1_key,"---",dict1_values)
+###sum, min and max can be used to find out the sum of, min of and max of keys/values in dictionaries.
+## del will can be used to delete a key, value pair in dictionary
+
