@@ -1,4 +1,4 @@
-# python-set,dict,array
+# python-set,dict
 ## An unordered list of unique elements is defined as sets and sets does not have an attribute "append". we have to work with add()
 normal_set = set(["a", "b","c"]) 
 # Adding an element to normal set is fine and for adding even update() works
