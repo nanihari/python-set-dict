@@ -36,3 +36,4 @@ for dict1_key,dict1_values in dict1.items():
 ## del will can be used to delete a key, value pair in dictionary
 ### checking for dictionary is empty or not can be done by using bool function.
 bool(my_dict)------empty dictionaries can evaluate false in python
+
